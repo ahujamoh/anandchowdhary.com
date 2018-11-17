@@ -115,7 +115,7 @@ Continued working on Oswald Labs' new website
 
 [Gave pitching workshop for Startup24](/events/startup24)
 
-[Resigned Made with Love in India to a platform](https://madewithlove.org.in)
+[Resigned Made with ❤️ in 🇮🇳, 🇳🇱, and 🇸🇪Love in India to a platform](https://madewithlove.org.in)
 
 ### October
 
