@@ -1,7 +1,6 @@
 ---
 title: Dutch Design Week
-date: 2018-08-25
-futureDate: October 20, 2018
+date: 2018-10-20
 roles: ["Exhibition"]
 places: ["Eindhoven"]
 link: http://www.mindthestep.nl/
@@ -17,6 +16,8 @@ I'll be showcasing Shravan by Oswald Labs as part of the *Mind the Step* exhibit
 <!--more-->
 
 This year---supported by the UT's DesignLab---Mind the Step will present projects at the interface of design, research and technology to 70,000 expected visitors in Eindhoven. It specifically focuses on projects that combine design, research, and technology with a social application.
+
+This year, Mind the Step has 6 main topics — Innovative materials, Design for debate, Health and well being, Home and leisure, The new mobility, and Improving professional environment. Oswald Labs is collaborating with the DesignLab University of Twente and researchers from Electrical Engineering, Mathematics & Computer Science (EEMCS), University of Twente and Eindhoven University of Technology to present their end-to-end accessible smartphone, Shravan at Mind the Step at the Dutch Design Week this year.
 
 With the support of Miriam Iliohan, co-founder of the DesignLab, Oswald Labs will be presenting immersive demos of our accessible smartphone software, Shravan. More information will follow.
 
