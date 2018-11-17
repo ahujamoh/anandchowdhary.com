@@ -10,7 +10,7 @@ pygmentsUseClasses =  true
 enableRobotsTXT = true
 canonifyURLs = true
 theme = "anand"
-title = "Anand Chowdhary"
+title = "Mohit Ahuja"
 pluralizelisttitles = "false"
 [taxonomies]
   tags = "tags"
@@ -22,11 +22,11 @@ pluralizelisttitles = "false"
   filename = "sitemap.xml"
   priority = 0.5
 [author]
-  gravatarEmail = "anandchowdhary@gmail.com"
-  homepageText = "Anand Chowdhary"
-  name = "Anand Chowdhary"
+  gravatarEmail = "ahujamoh@gmail.com"
+  homepageText = "Mohit Ahuja"
+  name = "Mohit Ahuja"
 [params]
-  description = "Anand Chowdhary is a creative technologist and entrepreneur. He is the founder and CEO of Oswald Labs, an accessibility technology company."
+  description = "Mohit Ahuja is a creative technologist and entrepreneur. He is the founder and CEO of Oswald Labs, an accessibility technology company."
   licence = "All Rights Reserved"
 [pygmentsOptions]
   linenos = false
