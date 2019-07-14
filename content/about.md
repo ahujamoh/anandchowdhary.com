@@ -1,6 +1,6 @@
 ---
 title: About
-intro: Anand Chowdhary is a creative technologist and entrepreneur from New Delhi, India, currently living in Enschede, the Netherlands. He is the co-founder and CEO of Oswald Labs.
+intro: Mohit Ahuja is a creative software developer from New Delhi, India currently living in Södertälje, Stockholm (Sweden). He is currently wokring with Scania as a software engineer in their sales and marketing team.
 ---
 
 <div class="image">
@@ -10,11 +10,11 @@ intro: Anand Chowdhary is a creative technologist and entrepreneur from New Delh
 	</figure>
 </div>
 
-Mohit Ahuja is a creative technologist and entrepreneur from New Delhi, India, currently living in Enschede, the Netherlands. He is the co-founder and CEO of [Oswald Labs](https://oswaldlabs.com), an award-winning accessibility technology company, and studies Creative Technology BSc at the [University of Twente](https://www.utwente.nl/en/).
+Mohit Ahuja is a creative technologist and entrepreneur from New Delhi, India, currently living in Enschede, the Netherlands. 
 
-He is also a consultant to several startups and digital studios in India and the Netherlands. Previously, he was an interaction designer at the Government of Delhi, Technology Lead at Justice Adda (a University of Cambridge social venture), and consultant to companies like Cyankart, Sixteen Inches, and Unifiers.
+<!-- He is also a consultant to several startups and digital studios in India and the Netherlands. Previously, he was an interaction designer at the Government of Delhi, Technology Lead at Justice Adda (a University of Cambridge social venture), and consultant to companies like Cyankart, Sixteen Inches, and Unifiers. -->
 
-He is currently unavailable for freelance projects.
-
+He is currently available for freelance projects.
+<!-- 
 - [Curriculum vitae](https://res.cloudinary.com/anand-chowdhary/image/upload/v1534497853/August2018.pdf) -- August 2018
-- [Portfolio](https://www.dropbox.com/s/eznlsi6336n96f2/AnandChowdhary_Portfolio_Jan17.pdf) -- January 2017
+- [Portfolio](https://www.dropbox.com/s/eznlsi6336n96f2/AnandChowdhary_Portfolio_Jan17.pdf) -- January 2017 -->

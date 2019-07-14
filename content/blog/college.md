@@ -9,7 +9,7 @@ Just a little bit of background about my college "situation". How I went from de
 
 <!--more-->
 
-I graduated from highschool in April 2016 and joined the Unitedworld Institute of Design (UID) in Ahmedabad, Gujarat, after working at the Government of Delhi for a month. UID was an excellent college for people who want to study design using the fundamentals of art.
+I graduated from highschool in April 2016 and joined the Unitedworld Institute of Design (UID) in Ahmedabad, Gujarat, after working at the Government of Delhi for a month. UID =was an excellent college for people who want to study design using the fundamentals of art.
 
 The problem I faced at UID was that the first year, the Foundation, was really more art and design. Instead of design thinking and languages and designers, it was more about sketching and painting and artists. The way I think design should be taught, really what I feel design is, was very different from their philosophy. So, after two short months, I decided to drop out of UID. I moved back to Delhi and founded Oswald Foundation, the accessibility technology company I'm leading.
 
