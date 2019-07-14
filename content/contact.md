@@ -7,9 +7,9 @@ To get in touch with me, you can drop me a line at [ahujamoh@gmail.com](mailto:a
 
 <!-- If you'd like to discuss partnerships with Oswald Labs or need help with a product, the best way is to go to the [support page on Oswald Labs'](https://oswaldlabs.com/contact) website or write to [yourfriends@oswaldlabs.com](mailto:yourfriends@oswaldlabs.com). -->
 
-For speaking engagements or interview requests, please write to [ahujamoh@gmail.com](mailto:ahujamoh@gmail.com).
+<!-- For speaking engagements or interview requests, please write to [ahujamoh@gmail.com](mailto:ahujamoh@gmail.com). -->
 
-Please note that I am currently not interested in taking up any freelance projects or consulting work.
+Please note that I am interested in taking up any freelance projects or consulting work.
 
 Feel free to follow or connect with me on any of the following networks:
 
