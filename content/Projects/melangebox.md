@@ -5,7 +5,8 @@ intro: Fashion ecommerce startup delivering high-quality, affordable clothing an
 date: 2017-01-01
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534760197/projects/melangebox/icon.png
 bg: "#0095de"
-work: ["Web", "Branding", "Startup"]
+# work: ["Web", "Branding", "Startup"]
+draft: true
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799290/portfolio/melangebox_2x.png
 ---
 

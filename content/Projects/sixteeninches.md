@@ -5,7 +5,8 @@ intro: Branding and Shopify theme customization for one of the fastest-growing o
 date: 2015-09-12
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534760380/projects/sixteeninches/icon.png
 bg: "#f30f40"
-work: ["App", "Branding", "Web"]
+# work: ["App", "Branding", "Web"]
+draft: true
 timeline: 2 weeks
 client: SixteenInches
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799287/portfolio/sixteeninches_2x.png

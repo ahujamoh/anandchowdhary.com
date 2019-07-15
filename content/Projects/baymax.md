@@ -4,7 +4,8 @@ subcategory: App
 intro: End-to-end healthcare companies that diagnoses illnesses and helps your recover, along with scheduling and appointments.
 date: 2015-12-11
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534758790/projects/baymax/icon.png
-work: ["App", "Branding"]
+# work: ["App"]
+draft: true
 bg: "#de9945"
 timeline: 24 hours
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799271/portfolio/baymax_2x.png

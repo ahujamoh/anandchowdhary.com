@@ -4,7 +4,8 @@ subcategory: App
 intro: Platform to celebrate, promote, and build a brand — India. Over 75 organizations use the Made with ❤️ in 🇮🇳, 🇳🇱, and 🇸🇪Love in India badge.
 date: 2014-04-21
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534760166/projects/mwlii/icon.png
-work: ["Web", "Branding"]
+# work: ["Web", "Branding"]
+draft: true
 bg: "#f10032"
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799279/portfolio/made-with-love-in-india_2x.png
 ---

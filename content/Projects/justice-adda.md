@@ -3,7 +3,8 @@ title: Justice Adda
 subcategory: Startup
 intro: Branding and web design for Cambridge Social Ventures (University of Cambridge) startup trying to break barriers in justice.
 date: 2014-08-24
-work: ["Branding", "Web"]
+# work: ["Branding", "Web"]
+draft: true
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534760086/projects/justice-adda/icon.png
 bg: "#e4e4e4"
 client: Justice Adda

@@ -4,7 +4,8 @@ subcategory: App
 intro: Period and sexual health companion for women that gives personalized tampon recommendations and access to self-help resources.
 date: 2016-10-16
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534760223/projects/naari/icon.png
-work: ["App", "Artificial Intelligence"]
+# work: ["App"]
+draft: true
 bg: "#217ed0"
 timeline: 24 hours
 client: P&G

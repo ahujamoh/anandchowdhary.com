@@ -3,7 +3,8 @@ title: Internet.org
 subcategory: Branding
 intro: Redesigned brand identity of Internet.org for an event in five hours. Made a trustworthy, user-centric brand.
 date: 2013-10-11
-work: ["Branding", "Web"]
+# work: ["Branding", "Web"]
+draft: true
 bg: "#ef5c46"
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799282/portfolio/internet.org_2x.png
 ---

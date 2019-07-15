@@ -6,7 +6,8 @@ date: 2015-05-31
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534760356/projects/saga-music/icon.png
 bg: "#00c1d7"
 timeline: 2 months
-work: ["App", "Branding", "Web"]
+# work: ["App", "Branding", "Web"]
+draft: true
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799285/portfolio/saga-music_2x.png
 ---
 

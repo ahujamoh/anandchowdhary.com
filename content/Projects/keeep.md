@@ -4,7 +4,8 @@ subcategory: App
 intro: Encryption engine and password manager in C/C++ built for my highschool Computer Science class.
 date: 2016-01-24
 bg: "#8d9ba6"
-work: ["App"]
+# work: ["App"]
+draft: true
 timeline: 4 days
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799282/portfolio/keeep_2x.png
 ---

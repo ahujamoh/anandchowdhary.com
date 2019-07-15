@@ -3,6 +3,7 @@ title: The Defence for MD5
 date: 2017-02-26
 tags: ["Life"]
 type: content
+draft: true
 ---
 
 A few days ago, I tried to reset my password on PR.com, the press releases website. I entered my email, and they sent me the username and password in plain text. That's right, in plain text.

@@ -3,7 +3,8 @@ title: Project Blue
 subcategory: Industrial Design
 intro: Plastic bottle industrial redesign project using AutoDesk and SolidWorks for IDII to reduce environmental impact.
 date: 2014-07-01
-work: ["Branding", "Industrial Design"]
+# work: ["Branding", "Industrial Design"]
+draft: true
 style: cover
 timeline: 1 month
 client: IDII

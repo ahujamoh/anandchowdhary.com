@@ -3,7 +3,8 @@ title: DrillMaps
 subcategory: Web
 intro: Platform for Seattle-based horizontal directional drilling company built using Vue.js and integrated with Stripe and Firebase.
 date: 2018-03-11
-work: ["Web"]
+# work: ["Web"]
+draft: true
 bg: "#009cff"
 timeline: 6 weeks
 client: Drill Maps, Inc.

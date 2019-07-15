@@ -5,7 +5,8 @@ intro: Hackathon to solve India-specific problems in New Delhi with 200 particip
 date: 2017-07-18
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534758843/projects/bharathacks/icon.png
 timeline: 3 months
-work: ["Event", "Branding", "Web"]
+# work: ["Event", "Branding", "Web"]
+draft: true
 bg: "#27577a"
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799275/portfolio/bharathacks_2x.png
 ---

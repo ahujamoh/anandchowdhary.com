@@ -4,7 +4,8 @@ subcategory: Ecommerce
 intro: Branding and web design for fashion brand that combines western clothing with ethnic Indian designs.
 date: 2016-03-01
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534759930/projects/firangana/icon.png
-work: ["Branding", "Web", "Startup"]
+# work: ["Branding", "Web", "Startup"]
+draft: true
 style: cover
 timeline: 2 months
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799277/portfolio/firangana_2x.png

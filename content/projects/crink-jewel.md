@@ -4,7 +4,8 @@ subcategory: Ecommerce
 intro: Branding and mobile-first Shopify website for one of the fastest-growing precious jewelry companies.
 date: 2015-10-20
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534759389/projects/crink-jewel/icon.png
-work: ["Branding", "Web"]
+# work: ["Branding", "Web"]
+draft: true
 client: Crink Jewel
 timeline: 2 months
 style: cover

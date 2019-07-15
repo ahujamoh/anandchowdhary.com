@@ -3,7 +3,8 @@ title: ClassRebels
 subcategory: Startup
 intro: Education-technology startup trying to break classroom barriers, products include virtual library and collaborative e-classroom.
 date: 2014-01-15
-work: ["Branding", "Web", "Startup"]
+work: []
+draft: true
 timeline: 1 year
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799275/portfolio/classrebels_2x.png
 ---

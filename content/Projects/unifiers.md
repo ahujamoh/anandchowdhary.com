@@ -2,7 +2,8 @@
 title: Unifiers
 intro: India's first online training platform, built in collaboration with government agencies and large corporates.
 date: 2014-05-27
-work: ["Web"]
+# work: ["Web"]
+draft: true
 bg: "#d7eed0"
 client: Unifiers
 timeline: 2 months

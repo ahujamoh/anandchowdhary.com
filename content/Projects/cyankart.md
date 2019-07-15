@@ -6,7 +6,8 @@ date: 2014-06-21
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534759563/projects/cyankart/icon.png
 client: Cyankart
 timeline: 2 months
-work: ["Web", "Branding"]
+draft: true
+# work: ["Web", "Branding"]
 image: https://res.cloudinary.com/anand-chowdhary/image/upload/v1532799276/portfolio/cyankart_2x.png
 ---
 

@@ -2,6 +2,7 @@
 title: Uppload
 date: 2018-04-19
 tags: ["JavaScript"]
+draft: true
 type: content
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534757327/icons/uppload.png
 ---

@@ -3,7 +3,8 @@ title: Delhi Government
 subcategory: App
 intro: Material design UI/UX for the Government of Delhi's program for state schools, School Management Committee (SMC).
 date: 2016-04-26
-work: ["App"]
+# work: ["App"]
+draft: true
 bg: "#00a48d"
 timeline: 6 weeks
 client: GNCTD

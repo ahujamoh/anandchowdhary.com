@@ -4,7 +4,8 @@ subcategory: App
 intro: Location-based offline friend discovery and music matching app built for Amsterdam Dance Event in 24 hours.
 date: 2017-10-21
 icon: https://res.cloudinary.com/anand-chowdhary/image/upload/v1534759137/projects/capella/icon.png
-work: ["App"]
+# work: ["App"]
+draft: true
 client: ADE
 timeline: 24 hours
 bg: "#de2a49"
