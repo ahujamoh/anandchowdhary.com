@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Mohit Ahuja</title>
+    <link>https://anandchowdhary.com/work/</link>
+    <description>Recent content in Work on Mohit Ahuja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anandchowdhary.com/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>App</title>
+      <link>https://anandchowdhary.com/work/app/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/work/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://anandchowdhary.com/work/artificial-intelligence/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/work/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality</title>
+      <link>https://anandchowdhary.com/work/augmented-reality/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/work/augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Things</title>
+      <link>https://anandchowdhary.com/work/internet-of-things/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/work/internet-of-things/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

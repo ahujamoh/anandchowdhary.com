@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Places on Mohit Ahuja</title>
+    <link>https://anandchowdhary.com/places/</link>
+    <description>Recent content in Places on Mohit Ahuja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anandchowdhary.com/places/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eindhoven</title>
+      <link>https://anandchowdhary.com/places/eindhoven/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/places/eindhoven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enschede</title>
+      <link>https://anandchowdhary.com/places/enschede/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/places/enschede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gurugram</title>
+      <link>https://anandchowdhary.com/places/gurugram/</link>
+      <pubDate>Sat, 17 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/places/gurugram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kanpur</title>
+      <link>https://anandchowdhary.com/places/kanpur/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/places/kanpur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kuala Lumpur</title>
+      <link>https://anandchowdhary.com/places/kuala-lumpur/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/places/kuala-lumpur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Delhi</title>
+      <link>https://anandchowdhary.com/places/new-delhi/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandchowdhary.com/places/new-delhi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
